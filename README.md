@@ -1,2 +1,2 @@
 # AAMPL-Supply-Chain-Project
-Logistics Company analysis of Blast Freezer utilization of Limited SKU's.
+Worked with a logistics company to figure out the best way to use their limited blast freezer space for storing frozen poultry and dairy products. First, I built a math-based optimization model that found the most efficient way to pack the freezer, hitting 92.65% capacity while staying within real limits like space, time, and equipment workload. Then, to make sure this plan would actually hold up in the real world, I built a simulation that generated a realistic month of random truck deliveries and product volumes.
